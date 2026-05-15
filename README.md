@@ -15,7 +15,7 @@ IBM HR Analytics Dataset — 1,470 employees, 35 columns
 Source: Kaggle
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![HR Attrition Dashboard](images/hr_attrition_dashboard.png)
 
 ## 🔑 Key Insights
 - Overall attrition rate: **16.1%**
